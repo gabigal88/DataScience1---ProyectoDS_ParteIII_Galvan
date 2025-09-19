@@ -31,6 +31,7 @@ Resultados y concluciones:
 * Si bien los valores de RMSE y R2 no son considerados optimos, cuando se evalua la predicción se observa que para Brasil y Mexico presenta cierta linealidad mientras que para Argentina se hay un salto grande.
 
 * Para la validacion de hipotesis, se calcula el crecimiento interanual entre los paises mas la prediccion 2019, de la cual se concluye que efectivamente Argentina ha tenido mayor crecimiento en terminos porcentuales.
+  
       Argentina:
       2015 → 2016: -1.95%
       2016 → 2017: 52.54%
